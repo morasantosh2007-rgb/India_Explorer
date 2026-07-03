@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "922222789890",
+    "project_id": "india-explorer-d769c",
+    "storage_bucket": "india-explorer-d769c.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:922222789890:android:24b73fb6fbc3e634b12e1b",
+        "android_client_info": {
+          "package_name": "com.example.india_explorer"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyByIE_lFUceYB_nFk-rOTTSENbRYnjG5GM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
